@@ -1,8 +1,8 @@
 {
     "Physical exposure": {
-        "climate change": 301,
-        "weather": 117,
-        "extreme weather": 69,
+        "climate change": 300,
+        "weather": 116,
+        "extreme weather": 68,
         "weather events": 27,
         "Warming": 1,
         "Temperature": 5,
@@ -43,7 +43,7 @@
         "air pollutants": 0,
         "degree days": 0,
         "polar vortex": 0,
-        "greenhouse gas": 99
+        "greenhouse gas": 95
     },
     "Policy related": {
         "Carbon tax": 8,
@@ -51,7 +51,7 @@
         "Net zero": 8,
         "Net-zero": 0,
         "Net-zero GHG emissions": 0,
-        "Forest": 44,
+        "Forest": 43,
         "Energy transition": 3,
         "Adaptation": 4,
         "Mitigation": 0
