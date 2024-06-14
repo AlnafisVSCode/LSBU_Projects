@@ -109,5 +109,5 @@ def process_pdf_file():
     
     plot_occurrences(cumulative_counts)
 
-# Run the function
+# Run the functions
 process_pdf_file()
